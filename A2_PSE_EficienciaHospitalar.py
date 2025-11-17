@@ -4,7 +4,7 @@ import seaborn as sns
 
 hospitais = []
 
-with open("a2 eficiencia hospitalar.csv", "r", newline="", encoding="utf-8") as arquivo:
+with open("A2_PSE_EficienciaHospitalar.csv", "r", newline="", encoding="utf-8") as arquivo:
     leitor = csv.DictReader(arquivo)
     for linha in leitor:
         hospitais.append({
