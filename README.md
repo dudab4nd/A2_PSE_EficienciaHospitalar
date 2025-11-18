@@ -20,6 +20,6 @@ Instale dependências::
 
 ## ▶️ Rodar o projeto
 
-    python a2_eficiencia_hospitalar.py
+    python A2_PSE_EficienciaHospitalar.py
 
 O script irá carregar o CSV e gerar os gráficos automaticamente.
